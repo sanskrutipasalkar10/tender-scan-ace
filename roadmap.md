@@ -1,0 +1,3 @@
+- [x] Build the selected editorial landing page with an illustrative tender analysis and the three outputs.
+- [x] Build a separate, polished internal sign-in page without inventing authentication.
+- [x] Verify desktop and mobile presentation and navigation.

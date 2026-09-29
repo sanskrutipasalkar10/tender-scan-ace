@@ -8,3 +8,6 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep the public tender overview at `/` and internal access design at `/login`; this separates product discovery from credentials while no authentication service is connected.
+- Mark all example tender findings as illustrative; the public design must not present sample results as real analysis.
